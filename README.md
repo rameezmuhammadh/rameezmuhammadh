@@ -8,8 +8,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React Js, Node Js** - 📫 How to reach me
-**arameez777@gmail.com**
+- 🌱 I’m currently learning **React Js, Node Js** -
+- 📫 How to reach me **arameez777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,23 +90,21 @@
       height="40"
   /></a>
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-  ><img
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
     alt="figma"
     width="40"
     height="40"
 /></a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"
-><img
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   alt="java"
   width="40"
   height="40" /></a
->
-
-</p>
+></p>
 
 <p>
   <img
