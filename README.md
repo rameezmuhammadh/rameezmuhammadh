@@ -8,7 +8,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React Js, Node Js** -
+- 🌱 I’m currently learning **React Js, Node Js** 
 - 📫 How to reach me **arameez777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
